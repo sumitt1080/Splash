@@ -1,16 +1,14 @@
 # Splash
 
-A new Flutter project.
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
 
-## Getting Started
+Splash is a totally responsive instagram clone built with Flutter and Firebase.
 
-This project is a starting point for a Flutter application.
+Right now it can handle post, activity feed, notifications, edit profile, comments.
 
-A few resources to get you started if this is your first Flutter project:
+Any improvement is desired regarding UI, and more features.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### How to build the app
+ * Add your Firebase in the App. Visit [here](https://firebase.google.com/docs/flutter/setup)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
