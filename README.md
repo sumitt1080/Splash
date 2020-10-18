@@ -24,7 +24,7 @@ Drop a ⭐ if you liked this repo.
 ###                                              Screenshots
 
 ![Screenshot_20201018-094940](https://user-images.githubusercontent.com/51052011/96358753-79842700-1128-11eb-8e79-0cfa70beaab1.jpg) &nbsp; &nbsp; ![Screenshot_20201016-201744](https://user-images.githubusercontent.com/51052011/96358754-8143cb80-1128-11eb-8fc1-85dcff669f18.jpg)
-###  Sign-in Screen &nbsp; &nbsp;&nbsp; &nbsp;                                 Timeline
+###  Sign-in Screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timeline
 
 
 ![Screenshot_20201016-201836](https://user-images.githubusercontent.com/51052011/96358755-886ad980-1128-11eb-85ee-784cd12e3b58.jpg)      ![Screenshot_20201016-201758](https://user-images.githubusercontent.com/51052011/96358757-8f91e780-1128-11eb-9417-aaa13010a177.jpg)
