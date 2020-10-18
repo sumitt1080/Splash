@@ -1,3 +1,4 @@
+
 # Splash
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/sumitt1080)](https://github.com/sumitt1080)
@@ -22,3 +23,12 @@ Drop a ⭐ if you liked this repo.
 ##
 ###                                              Screenshots
 
+![Screenshot_20201018-094940](https://user-images.githubusercontent.com/51052011/96358753-79842700-1128-11eb-8e79-0cfa70beaab1.jpg) &nbsp; &nbsp; ![Screenshot_20201016-201744](https://user-images.githubusercontent.com/51052011/96358754-8143cb80-1128-11eb-8fc1-85dcff669f18.jpg)
+###  Sign-in Screen &nbsp; &nbsp;&nbsp; &nbsp;                                 Timeline
+
+
+![Screenshot_20201016-201836](https://user-images.githubusercontent.com/51052011/96358755-886ad980-1128-11eb-85ee-784cd12e3b58.jpg)      ![Screenshot_20201016-201758](https://user-images.githubusercontent.com/51052011/96358757-8f91e780-1128-11eb-9417-aaa13010a177.jpg)
+
+![Screenshot_20201016-201803](https://user-images.githubusercontent.com/51052011/96358761-97ea2280-1128-11eb-863b-c92c6dcff85f.jpg)       ![Screenshot_20201016-202530](https://user-images.githubusercontent.com/51052011/96358763-9de00380-1128-11eb-85ce-98894e4d4f45.jpg)
+
+![Screenshot_20201016-201910](https://user-images.githubusercontent.com/51052011/96358770-a33d4e00-1128-11eb-8e64-880bf3b3e8e1.jpg) 
